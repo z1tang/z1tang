@@ -28,3 +28,6 @@
 `Example Quoting Code`
 
 [go to README.md](README.md)
+
+- [x] ####739
+- [ ] ####154
