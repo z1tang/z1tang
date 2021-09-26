@@ -2,9 +2,6 @@
 
 ### Majoring Computer Science at UCSD
 
-> Example Quoting Text
-
-`Example Quoting Code`
 
 #### Personal Hobbies:
 
@@ -24,3 +21,7 @@
 - Some Snap and Scratch Projects I built(https://sites.google.com/view/ucsd-edu-zhuoran-tang/home)
 
 ##### Selfie: (https://github.com/z1tang/z1tang/blob/main/image/IMG_0624.JPG)
+
+> Example Quoting Text
+
+`Example Quoting Code`
