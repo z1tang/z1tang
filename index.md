@@ -4,6 +4,8 @@
 
 > Example Quoting Text
 
+`Example Quoting Code`
+
 #### Personal Hobbies:
 
 - Basketball
