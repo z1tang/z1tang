@@ -1,4 +1,4 @@
-# **Zhuoran Tang's User Page**
+#**Zhuoran Tang's User Page**
 
 ### Majoring Computer Science at UCSD
 
@@ -28,4 +28,4 @@
 `Example Quoting Code`
 
 
-(zhuoran-tang's-user-page)
+#**zhuoran-tang's-user-page**
