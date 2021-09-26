@@ -18,6 +18,6 @@
 3. Java
 4. Snap
 5. Scratch
-- ##### Some Snap and Scratch Projects I built(https://sites.google.com/view/ucsd-edu-zhuoran-tang/home)
+- Some Snap and Scratch Projects I built(https://sites.google.com/view/ucsd-edu-zhuoran-tang/home)
 
-####% Selfie: (https://github.com/z1tang/z1tang/blob/main/image/IMG_0624.JPG)
+##### Selfie: (https://github.com/z1tang/z1tang/blob/main/image/IMG_0624.JPG)
