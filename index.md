@@ -1,4 +1,4 @@
-#Zhuoran Tang User Page 
+# Zhuoran Tang User Page 
 
 ### Majoring Computer Science at UCSD
 
@@ -78,4 +78,4 @@
 1
 
 
-[go to](#zhuoran-tang-user-page)
+[go to](#-zhuoran-tang-user-page)
