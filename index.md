@@ -21,7 +21,7 @@
 - [Some Snap and Scratch Projects I built](https://sites.google.com/view/ucsd-edu-zhuoran-tang/home)
 
 
-![Selfie:](image/IMG_0624.JPG)
+![Selfie:](z1tang/image/IMG_0624.JPG)
 
 > Example Quoting Text
 
