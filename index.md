@@ -34,3 +34,10 @@
 - [x] 2
 - [ ] 3
 - [ ] 4
+
+- [Zhuoran Tang User Page](#zhuoran-tang-user-page)
+    - [Majoring Computer Science at UCSD](#majoring-computer-science-at-ucsd)
+      - [Personal Hobbies:](#personal-hobbies)
+      - [Programming Language:](#programming-language)
+      - [Example Task Lists:](#example-task-lists)
+
